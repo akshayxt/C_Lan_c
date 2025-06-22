@@ -3,11 +3,7 @@
   <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
 
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
-  <style>
-   @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
-  </style>
+
  </head>
  
  <body class="bg-[#1a1a1a] p-4 flex justify-center items-center min-h-screen">
